@@ -45,7 +45,7 @@ TermuxForge is a bash-only tool that creates customized Linux desktop environmen
 
 **Software:**
 - Termux (from F-Droid or GitHub Releases, NOT Google Play)
-- termux:x11 "Recommended" (from Github releases)[here](https://github.com/termux/termux-app/releases)
+- termux:x11 "Recommended" (from Github releases)[here](https://github.com/termux/termux-x11/releases)
 - Bash (built into Termux)
 
 ---
